@@ -1,0 +1,14 @@
+# Módulo de Autenticación 🚀
+
+### 📋 Lista de Tareas
+- [x] Crear base de datos
+- [ ] Diseñar formulario de login
+- [ ] Conectar API de usuarios
+
+### 📊 Seguimiento
+
+| Tarea | Responsable | Estado |
+| :--- | :--- | :--- |
+| Base de datos | Juan Pérez | ✅ Hecho |
+| Formulario login | Ana Gómez | ⏳ En proceso |
+| Conectar API | Carlos Ruiz | ❌ Pendiente |
